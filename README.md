@@ -7,6 +7,6 @@
 
 The main goals of NHC:
 -   Enable new hires to become productive consultants in an effective way
--   Share „tribal-knowledge” and fill gaps left by current training offerings
--   Hands-on experience on various aspects of the consulting domain at Pega
--   Discover most useful sources of knowledge both related to Pega platform as well as day to day work in Consulting
+-   Share „tribal-knowledge” and fill gaps left by current training offerings on Academy
+-   Hands-on experience on various aspects of developing in Pega
+-   Discover most useful sources of knowledge both related to Pega platform
