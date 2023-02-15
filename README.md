@@ -1,5 +1,6 @@
 # Newhire-Checklist
 
+## Bussines value
 
 **New Hire Checklist** is an application that will guide new hires during your first months working with Pega platform. With the help of the application managers can structure extended onboarding that will teach new hires learn the basic knowledge required in each project. This additional learning is on top of Pega Academy and prepares trainee for real life assignments.
 
@@ -12,6 +13,13 @@ The main goals of NHC:
 -   speed up onboarind and make process more repetable
 
 ---
+## Installation
+
+In you Pega 8 environment navigate to Confgure -> Application -> Distribution -> Import and select zipped RAP file avialable in this repository. After sucessfull import of application add one of following Access Groups to your operartor: NHChecklist:Admin, NHChecklist:Manager or NHChecklist:Newhire.
+
+Switch to Newhire Checklist application.
+
+## Manual
 
 Newhire Checklist application support following features:
 
