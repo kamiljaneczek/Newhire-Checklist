@@ -12,12 +12,12 @@ The main goals of NHC:
 -   Hands-on experience on various aspects of developing in Pega
 -   speed up onboarind and make process more repetable
 
----
+
 ## Installation
 
 In you Pega 8 environment navigate to Confgure -> Application -> Distribution -> Import and select zipped RAP file avialable in this repository. After sucessfull import of application add one of following Access Groups to your operartor: NHChecklist:Admin, NHChecklist:Manager or NHChecklist:Newhire.
 
-Switch to Newhire Checklist application.
+Switch to **Newhire Checklist** application.
 
 ## Manual
 
