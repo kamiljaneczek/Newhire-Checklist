@@ -41,7 +41,7 @@ Newhire Checklist application support following features:
 
 - Browse through learing items for on a Checklist
 
-<img src="/images/2023-02-14_06-44-11.png" alt= “” width="700" height="300">
+<img src="/images/2023-02-14_06-44-11.png" alt= “” width="600" height="600">
 
 - Fulfill learning item from Checklist
 
