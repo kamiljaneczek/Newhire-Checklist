@@ -29,7 +29,7 @@ Newhire Checklist application support following features:
 
 - Select items into template
 
-<img src="/images/2023-02-14_06-51-38.png" alt= “” width="700" height="300">
+<img src="/images/2023-02-14_06-51-38.png" alt= “” width="00" height="300">
 
 - Browse through the list of checklist defined for your team members
 
@@ -37,7 +37,7 @@ Newhire Checklist application support following features:
 
 - Create Checklist for your newhire
 
-<img src="/images/2023-02-14_06-52-12.png" alt= “” width="400" height="700">
+<img src="/images/2023-02-14_06-52-12.png" alt= “” width="400" height="600">
 
 - Browse through learing items for on a Checklist
 
@@ -45,12 +45,12 @@ Newhire Checklist application support following features:
 
 - Fulfill learning item from Checklist
 
-<img src="/images/2023-02-14_06-47-51.png" alt= “” width="400" height="700">
+<img src="/images/2023-02-14_06-47-51.png" alt= “” width="400" height="600">
 
 - Report on learning progress and effort
 
 <img src="/images/2023-02-14_06-45-15.png" alt= “” width="600" height="300">
 
-<img src="/images/2023-02-14_06-45-46.png" alt= “” width="400" height="700">
+<img src="/images/2023-02-14_06-45-46.png" alt= “” width="400" height="600">
 
 <img src="/images/2023-02-14_06-46-31.png" alt= “” width="600" height="300">
