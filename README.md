@@ -1,4 +1,4 @@
-# Newhire-Checklist
+# Newhire Checklist
 
 ## Bussines value
 
