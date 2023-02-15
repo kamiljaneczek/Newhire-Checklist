@@ -9,4 +9,50 @@ The main goals of NHC:
 -   Enable new hires to become productive consultants in an effective way
 -   Share „tribal-knowledge” and fill gaps left by current training offerings on Academy
 -   Hands-on experience on various aspects of developing in Pega
--   Discover most useful sources of knowledge both related to Pega platform
+-   speed up onboarind and make process more repetable
+
+---
+
+Newhire Checklist application support following features:
+
+- Creation of Item templates which are learning items that will build a checklist for new hire
+
+<img src="/images/2023-02-14_06-48-29.png" alt= “” width="600" height="300">
+
+- Browse through the list of Item Templates defined in system
+
+<img src="/images/2023-02-14_06-38-31.png" alt= “” width="600" height="300">
+
+- Creation of Checklist Tempalte that later is used to build Checklist (to support reuse)
+
+<img src="/images/2023-02-14_06-41-19.png" alt= “” width="600" height="300">
+
+- Select items into template
+
+<img src="/images/2023-02-14_06-51-38.png" alt= “” width="600" height="300">
+
+- Browse through the list of checklist defined for your team members
+
+<img src="/images/2023-02-14_06-41-19.png" alt= “” width="600" height="300">
+
+
+- Create Checklist for your newhire
+
+<img src="/images/2023-02-14_06-52-12.png" alt= “” width="600" height="300">
+
+
+- Browse through learing items for on a Checklist
+
+<img src="/images/2023-02-14_06-44-11.png" alt= “” width="600" height="300">
+
+- Fulfill learning item from Checklist
+
+<img src="/images/2023-02-14_06-47-51.png" alt= “” width="600" height="300">
+
+- Report on learning progress and effort
+
+<img src="/images/2023-02-14_06-45-15.png" alt= “” width="600" height="300">
+
+<img src="/images/2023-02-14_06-45-46.png" alt= “” width="600" height="300">
+
+<img src="/images/2023-02-14_06-46-31.png" alt= “” width="600" height="300">
